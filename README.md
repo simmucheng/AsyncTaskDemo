@@ -12,6 +12,8 @@ onPreExecute(),->运行在UI线程
 onProgressUpdate()->运行在UI线程。
 
 该项目完成了
+
+
 1.从网上通过URL通过异步任务类加载一张图片并显示出来。
 
 
